@@ -1,0 +1,43 @@
+
+div.slide.titlepage h1 {
+    padding-top: 20%;
+    font-size: 200%;
+    }
+
+.note {
+    display: block;
+    page-break-before: always;
+    }
+
+.note+ul {
+    display: block;
+    /* display: none; */
+    /* when printing handout,
+       change display attribute to none;
+       */
+    }
+
+div.level1 h1 {
+    padding-top: 15%;
+    margin: 0 0 0.5em 0;
+    text-align: center;
+    }
+
+div.slide.level2 h1 {
+    border-bottom: 1px black groove;
+    color: #000;
+    }
+
+div.figure {
+    display: none;
+    }
+
+div#聚氨酯泡沫行业 li {
+    margin-bottom: 0.2em;
+    line-height: 100%;
+    }
+
+div#工商制冷空调行业 li {
+    margin-bottom: 0.2em;
+    line-height: 100%;
+    }

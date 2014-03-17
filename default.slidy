@@ -22,6 +22,7 @@
     <link rel="stylesheet" type="text/css" media="screen, projection, print"
           href="$slidy-url$/styles/slidy.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="slide.css">
+    <link rel="stylesheet" type="text/css" media="print" href="print.css">
     $for(css)$
     <link rel="stylesheet" type="text/css" media="screen, projection, print"
           href="$css$" />
