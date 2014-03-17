@@ -32,13 +32,9 @@ div.figure {
     display: none;
     }
 
-div#聚氨酯泡沫行业 li {
+li {
     margin-bottom: 0.2em;
-    line-height: 100%;
-    }
-
-div#工商制冷空调行业 li {
-    margin-bottom: 0.2em;
+    margin-top: 0.2em;
     line-height: 100%;
     }
 
