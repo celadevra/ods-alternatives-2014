@@ -54,6 +54,8 @@
 
 + 消防行业
 
+![使用哈龙的灭火器](images/halon-extinguisher.jpg)
+
 ### Notes {.note}
 
 + 哈龙用作灭火剂具有灭火效率高、速度快、无残留、适用范围广等优良性能。曾广泛用于军事、文物保护等用途。
@@ -86,6 +88,8 @@
 
 + 农业
 
+![熏蒸作业场景](images/2011223153220.jpg)
+
 # HCFC 在部分领域替代 CFC
 
 ## HCFC-22
@@ -93,6 +97,8 @@
 + 空调制冷行业：替代 CFC-12 和 CFC-11
 
 + 泡沫行业：替代 CFC-12
+
+![HCFC-22 制冷剂](images/R22-f22-hcfc22-freon-refrigerant-Gas-refrigerant-R22.jpg)
 
 ### Notes {.note}
 
@@ -107,6 +113,8 @@
 ## HCFC-141b
 
 + 聚氨酯泡沫行业：替代 CFC-11
+
+![](images/Foam_Cells_IR9.jpg)
 
 ## HCFC-142b
 
@@ -134,6 +142,8 @@
     - GWP：~1410
     - 无毒性
 
+![](images/gas_refrigerator_rge400_servel.jpg)
+
 ### Notes {.note}
 
 + 我国在冰箱行业 CFC 淘汰中，一步到位以 R600a 为主要制冷剂。
@@ -160,6 +170,8 @@
 
     - GWP：~10
     - 无短期毒性
+
+![](images/Wall+Air+Conditioners+Fuzhou+M-6x_wWrwSul.jpg)
 
 ### Notes {.note}
 
@@ -221,6 +233,8 @@
     - 无毒性
     - 微可燃性
 
+![](images/iStock_000001296089XSmall.jpg)
+
 ### Notes {.note}
 
 + HFC-134a 是目前广泛使用的替代品，由于较高的 GWP 值，今后的应用将受到限制。由于价格较高，国内存在假冒伪劣。
@@ -277,6 +291,8 @@
 
     - GWP：~20
     - 可燃性
+
+![](images/40731470_1.jpg)
 
 ### Notes {.note}
 
@@ -353,6 +369,8 @@
     - 可燃性
 
 + → 压缩空气
+
+![](images/jimparsons.jpg)
 
 ### Notes {.note}
 
