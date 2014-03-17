@@ -6,10 +6,10 @@ div.slide.titlepage h1 {
 
 .note {
     display: block;
-    page-break-before: always;
+    page-break-before: avoid;
     }
 
-.note+ul {
+.note+ul, .note+p {
     display: block;
     /* display: none; */
     /* when printing handout,
@@ -40,4 +40,8 @@ div#聚氨酯泡沫行业 li {
 div#工商制冷空调行业 li {
     margin-bottom: 0.2em;
     line-height: 100%;
+    }
+
+div#参考资料 p {
+    margin: 0.4em 1em 0.4em 1em;
     }

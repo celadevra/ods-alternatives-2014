@@ -3,7 +3,7 @@ div.slide.titlepage h1 {
     font-size: 200%;
     }
 
-.note, .note+ul {
+.note, .note+ul, .note+p {
     display: none;
     }
 
