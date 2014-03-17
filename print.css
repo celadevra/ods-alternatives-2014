@@ -6,7 +6,7 @@ div.slide.titlepage h1 {
 
 .note {
     display: block;
-    page-break-before: avoid;
+    page-break-before: always;
     }
 
 .note+ul, .note+p {
@@ -32,12 +32,21 @@ div.figure {
     display: none;
     }
 
-li {
-    margin-bottom: 0.2em;
-    margin-top: 0.2em;
+li,p {
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+    line-height: 90%;
+    }
+
+div#工商制冷空调行业 h1 {
+    margin-bottom: 0.1em;
     line-height: 100%;
     }
 
+div#工商制冷空调行业 li {
+    margin-top: 0;
+    margin-bottom: 0;
+    }
 div#参考资料 p {
     margin: 0.4em 1em 0.4em 1em;
     }
