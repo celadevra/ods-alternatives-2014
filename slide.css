@@ -1,0 +1,8 @@
+div.slide.titlepage h1 {
+    padding-top: 20%;
+    font-size: 200%;
+    }
+
+.note, .note+ul {
+    display: none;
+    }
